@@ -1,0 +1,46 @@
+<gedcom>
+  <HEAD>
+    <SOUR value="Reunion">
+      <VERS>V8.0</VERS>
+      <CORP>Leister Productions</CORP>
+    </SOUR>
+    <DEST>Reunion</DEST>
+    <DATE>11 FEB 2006</DATE>
+    <FILE>test</FILE>
+    <GEDC>
+      <VERS>5.5</VERS>
+    </GEDC>
+    <CHAR>MACINTOSH</CHAR>
+  </HEAD>
+  <INDI id="@I1@">
+    <NAME>Bob /Cox/</NAME>
+    <SEX>M</SEX>
+    <FAMS id="@F1@"/>
+    <CHAN>
+      <DATE>11 FEB 2006</DATE>
+    </CHAN>
+  </INDI>
+  <INDI id="@I2@">
+    <NAME>Joann /Para/</NAME>
+    <SEX>F</SEX>
+    <FAMS id="@F1@"/>
+    <CHAN>
+      <DATE>11 FEB 2006</DATE>
+    </CHAN>
+  </INDI>
+  <INDI id="@I3@">
+    <NAME>Bobby Jo /Cox/</NAME>
+    <SEX>M</SEX>
+    <FAMC id="@F1@"/>
+    <CHAN>
+      <DATE>11 FEB 2006</DATE>
+    </CHAN>
+  </INDI>
+  <FAM id="@F1@">
+    <HUSB id="@I1@"/>
+    <WIFE id="@I2@"/>
+    <MARR/>
+    <CHIL id="@I3@"/>
+  </FAM>
+  <TRLR/>
+</gedcom>

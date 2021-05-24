@@ -1,0 +1,19 @@
+<gedcom>
+  <HEAD>
+    <SOUR value="Reunion">
+      <VERS>V8.0</VERS>
+      <CORP value="Leister Productions">
+	  	<DEST/>
+    	<DATE value="11 FEB 2006">
+		  <FILE value="test">
+			  <CHAR>MACINTOSH</CHAR>
+		  </FILE>
+		</DATE>
+	  </CORP>
+    </SOUR>    
+  </HEAD>
+  <INDI id="@I1@">
+    <NAME>Bob /Cox/</NAME>
+    <SEX>M</SEX>
+  </INDI>
+</gedcom>

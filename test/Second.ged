@@ -1,0 +1,11 @@
+0 HEAD 
+1 SOUR Reunion
+2 VERS V8.0
+2 CORP Leister Productions
+3 DEST 
+3 DATE 11 FEB 2006
+4 FILE test
+5 CHAR MACINTOSH
+0 @I1@ INDI
+1 NAME Bob /Cox/
+1 SEX M
